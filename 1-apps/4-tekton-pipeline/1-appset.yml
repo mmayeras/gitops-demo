@@ -17,7 +17,7 @@ spec:
       project: demo
       syncPolicy:
         syncOptions:
-        - Replace=true
+        - Replace=false
         automated:
           prune: true
           selfHeal: false
